@@ -39,4 +39,4 @@ services:
 networks:
   default:
     name: www-network
-    external: true
+    external: false
